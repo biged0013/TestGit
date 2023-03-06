@@ -302,7 +302,7 @@ GameObject:
   - component: {fileID: 584844129}
   - component: {fileID: 584844128}
   m_Layer: 0
-  m_Name: awesome triangle
+  m_Name: very awesome triangle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
